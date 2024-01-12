@@ -1,0 +1,11 @@
+name: Jak Dieo
+age: 30
+city: New York
+is_student: false
+grades:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: A
+  - subject: Science
+    grade: A+
